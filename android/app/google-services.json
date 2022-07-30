@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139519112315",
+    "project_id": "anotherwordgame-6b475",
+    "storage_bucket": "anotherwordgame-6b475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139519112315:android:8afc31dae1ae1f9cba9ede",
+        "android_client_info": {
+          "package_name": "another.word.anotherwordgame2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139519112315-dlggv252fp5vm7huk72i87kabb04s55q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWjccz52FoUrcofyzoTPCeRMyzOOPCGrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139519112315-dlggv252fp5vm7huk72i87kabb04s55q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
